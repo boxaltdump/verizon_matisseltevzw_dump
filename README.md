@@ -1,0 +1,14 @@
+# matisseltevzw-user 5.1.1 LMY47X T537VVRS3BPL1 release-keys
+- manufacturer: samsung
+- platform: msm8226
+- codename: matisseltevzw
+- flavor: matisseltevzw-user
+- release: 5.1.1
+- id: LMY47X
+- incremental: T537VVRS3BPL1
+- tags: release-keys
+- fingerprint: Verizon/matisseltevzw/matisseltevzw:5.1.1/LMY47X/T537VVRS3BPL1:user/release-keys
+- is_ab: false
+- brand: Verizon
+- branch: matisseltevzw-user-5.1.1-LMY47X-T537VVRS3BPL1-release-keys
+- repo: verizon_matisseltevzw_dump
