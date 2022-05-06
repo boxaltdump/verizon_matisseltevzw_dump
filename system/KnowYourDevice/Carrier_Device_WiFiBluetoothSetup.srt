@@ -1,0 +1,123 @@
+﻿1
+00:00:03,110 --> 00:00:06,594
+Watch this video to learn how
+to set up Wi-Fi and Bluetooth
+
+2
+00:00:06,651 --> 00:00:12,202
+on your Samsung Galaxy
+Tab 4 10.1 from Verizon.
+
+3
+00:00:12,242 --> 00:00:17,783
+Open the Notification Panel by touching and
+sliding down from the top of the screen.
+
+4
+00:00:17,830 --> 00:00:21,600
+Tap the Settings icon.
+
+5
+00:00:21,688 --> 00:00:24,830
+Then, tap Wi-Fi.
+
+6
+00:00:24,877 --> 00:00:33,552
+Make sure Wi-Fi is turned on by sliding
+the Wi-Fi switch to the right.
+
+7
+00:00:33,600 --> 00:00:38,742
+Wi-Fi will turn on and a list of
+nearby Wi-Fi networks will appear.
+
+8
+00:00:38,781 --> 00:00:43,330
+Tap the one you
+want to connect to.
+
+9
+00:00:43,386 --> 00:00:48,872
+If you’re connecting to a secure network,
+you’ll need to enter its password.
+
+10
+00:00:48,912 --> 00:00:53,376
+Once done, tap Connect.
+
+11
+00:00:53,448 --> 00:00:57,724
+You should now see Connected
+underneath the network name.
+
+12
+00:00:57,780 --> 00:01:01,958
+Now let’s look at connecting a
+Bluetooth device to your tablet.
+
+13
+00:01:02,022 --> 00:01:05,768
+To set up Bluetooth,
+tap Bluetooth.
+
+14
+00:01:05,824 --> 00:01:13,506
+Make sure Bluetooth is turned on by sliding
+the Bluetooth switch to the right.
+
+15
+00:01:13,609 --> 00:01:19,924
+Tap Scan to get an updated list
+of nearby Bluetooth devices.
+
+16
+00:01:20,006 --> 00:01:24,244
+Please note that the device you are attempting
+to pair with must be in discovery mode
+
+17
+00:01:24,356 --> 00:01:26,646
+or the scan will not find it.
+
+18
+00:01:26,741 --> 00:01:31,379
+Once you have found the device you
+want to pair with, select it.
+
+19
+00:01:31,483 --> 00:01:35,497
+You may need to confirm an already
+existing password for pairing.
+
+20
+00:01:35,577 --> 00:01:40,444
+ If this is the case, tap OK.
+
+21
+00:01:40,523 --> 00:01:46,531
+On the tablet, connected devices will
+appear in the paired devices list.
+
+22
+00:01:46,618 --> 00:01:51,010
+Press the Home button
+when complete.
+
+23
+00:01:51,066 --> 00:01:53,588
+To quickly turn
+Bluetooth on or off,
+
+24
+00:01:53,627 --> 00:01:55,750
+you can use the
+Notification Panel
+
+25
+00:01:55,813 --> 00:02:00,590
+by touching and sliding your finger
+down from the top of the screen.
+
+26
+00:02:00,646 --> 00:02:06,968
+Then, tap the Bluetooth icon.

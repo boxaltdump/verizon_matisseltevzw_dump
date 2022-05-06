@@ -1,0 +1,14 @@
+# matisseltevzw-user 4.4.4 KTU84P T537VVRU2ANK1 release-keys
+- manufacturer: samsung
+- platform: msm8226
+- codename: matisseltevzw
+- flavor: user
+- release: 4.4.4
+- id: KTU84P
+- incremental: T537VVRU2ANK1
+- tags: release-keys
+- fingerprint: Verizon/matisseltevzw/matisseltevzw:4.4.4/KTU84P/T537VVRU2ANK1:user/release-keys
+- is_ab: false
+- brand: Verizon
+- branch: matisseltevzw-user-4.4.4-KTU84P-T537VVRU2ANK1-release-keys
+- repo: verizon_matisseltevzw_dump

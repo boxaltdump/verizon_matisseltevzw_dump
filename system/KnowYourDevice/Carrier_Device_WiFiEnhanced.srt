@@ -1,0 +1,116 @@
+﻿1
+00:00:03,034 --> 00:00:06,825
+Wi-Fi Enhanced Connectivity makes
+it easy to switch to Wi-Fi
+
+2
+00:00:06,846 --> 00:00:09,014
+when you’re using
+a lot of data.
+
+3
+00:00:09,054 --> 00:00:11,289
+Watch this video to learn
+about this feature
+
+4
+00:00:11,323 --> 00:00:16,644
+on your Samsung Galaxy
+Tab 4 10.1 from Verizon.
+
+5
+00:00:16,723 --> 00:00:21,781
+Your tablet has Wi-Fi Enhanced
+Connectivity automatically turned on.
+
+6
+00:00:21,807 --> 00:00:26,840
+To see how it works, let’s open
+the Play Store as an example.
+
+7
+00:00:26,899 --> 00:00:28,237
+From your Home screen,
+
+8
+00:00:28,249 --> 00:00:32,317
+tap the Apps icon at the
+bottom right of your screen.
+
+9
+00:00:32,356 --> 00:00:38,229
+Then, scroll to and
+tap Play Store.
+
+10
+00:00:38,241 --> 00:00:43,056
+You are instantly notified that you
+can connect to a Wi-Fi network.
+
+11
+00:00:43,129 --> 00:00:45,711
+Select the network you
+want to connect to,
+
+12
+00:00:45,735 --> 00:00:52,538
+ or tap Not now if you wish to continue
+to use your mobile data connection.
+
+13
+00:00:52,605 --> 00:00:55,111
+If you want to turn
+this feature off,
+
+14
+00:00:55,155 --> 00:00:56,889
+open the Notification Panel
+
+15
+00:00:56,956 --> 00:01:01,909
+by touching and sliding down
+from the top of the screen.
+
+16
+00:01:02,001 --> 00:01:06,136
+ Tap the Settings icon.
+
+17
+00:01:06,175 --> 00:01:11,238
+Tap Wi-Fi to see
+your Wi-Fi settings.
+
+18
+00:01:11,295 --> 00:01:15,627
+Then tap Show Wi-Fi
+pop-up to turn it off.
+
+19
+00:01:15,707 --> 00:01:18,025
+You won’t be reminded
+about switching to Wi-Fi
+
+20
+00:01:18,057 --> 00:01:22,006
+when opening apps that
+might use a lot of data.
+
+21
+00:01:22,118 --> 00:01:25,610
+Press the Home button
+to leave Settings.
+
+22
+00:01:25,663 --> 00:01:28,566
+ Another feature of Wi-Fi
+Enhanced connectivity
+
+23
+00:01:28,600 --> 00:01:32,044
+is that when a Wi-Fi network you’ve
+connected to before is in range,
+
+24
+00:01:32,111 --> 00:01:35,980
+you’ll be automatically
+connected.
